@@ -1,7 +1,4 @@
 ---
-
-# 🔐 Encryption and Decryption in Python
-
 ## Overview
 
 This project demonstrates a simple implementation of **message encryption and decryption** using Python. The main goal is to encode a message so that it becomes unreadable without the proper key, and then decode it back to its original form.
